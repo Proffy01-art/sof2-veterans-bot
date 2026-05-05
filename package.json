@@ -2,7 +2,7 @@
   "name": "sof2-veterans-ultimate-bot",
   "version": "1.0.0",
   "type": "module",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
     "dev": "node --watch src/index.js"
